@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fun With DS</string>
+    <string name="action_settings">Settings</string>
+    <string name="move">Move</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="stack">STACKS</string>
+    <string name="queue">QUEUES</string>
+    <string name="list">LISTS</string>
+    <string name="tree">TREES</string>
+    <string name="graph">GRAPHS</string>
+    <string name="hash">HASH TABLE</string>
+    <string name="data">DATA</string>
+    <string name="enter">ENTER</string>
+    <string name="structures">STRUCTURES</string>
+    <string name="black">#000000</string>
+    <string name="white">#FFFFFF</string>
+    <string name="blue">#0000FF</string>
+    <string name="title_activity_front">FrontActivity</string>
+    <string name="title_activity_hello">HelloActivity</string>
+    <string name="title_activity_hash_page">HashPage</string>
+    <string name="title_activity_first">FirstActivity</string>
+
+</resources>
